@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+Exp6/Bank-Loan.csv
+
 # C extensions
 *.so
 
