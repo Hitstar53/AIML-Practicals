@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 
 Exp6/Bank-Loan.csv
+Exp6/bank-loan-processed.csv
 
 # C extensions
 *.so
