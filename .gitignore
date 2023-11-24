@@ -5,6 +5,7 @@ __pycache__/
 
 Exp6/Bank-Loan.csv
 Exp6/bank-loan-processed.csv
+MiniProject/data
 
 # C extensions
 *.so
