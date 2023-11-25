@@ -1,4 +1,4 @@
-## AI/ML Mini Project - Alzheimer Detection
+### AI/ML Mini Project - Alzheimer Detection
 This project will detect Alzheimer's disease using MRI scans of the brain. The project will be able to detect the disease in its early stages and will also be able to predict the severity of the disease.
 
 ## Tools and Technologies
@@ -11,6 +11,13 @@ Python v3.11.0
 The dataset for the project was gathered from kaggle. The dataset contains ~5000 images of MRI scans of the brain. The dataset can be found [here](https://www.kaggle.com/tourist55/alzheimers-dataset-4-class-of-images).
 
 80% of the images were used for training the models and the remaining 20% for testing.
+
+## Research Papers
+- [Research paper 1](https://ieeexplore.ieee.org/document/9328072)
+- [Research paper 2](https://ieeexplore.ieee.org/document/10008269)
+- [Research paper 3](https://ieeexplore.ieee.org/document/9765267)
+- [Research paper 4](https://ieeexplore.ieee.org/document/9670891)
+- [Research paper 5](https://www.researchgate.net/publication/344010383_Alzheimer's_Disease_Detection_using_MRI_Scan_Images_and_Deep_Learning)
 
 ## Authors
 ### Hatim Sawai
