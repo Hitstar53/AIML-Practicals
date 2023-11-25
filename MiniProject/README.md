@@ -1,4 +1,4 @@
-### AI/ML Mini Project - Alzheimer Detection
+# AI/ML Mini Project - Alzheimer Detection
 This project will detect Alzheimer's disease using MRI scans of the brain. The project will be able to detect the disease in its early stages and will also be able to predict the severity of the disease.
 
 ## Tools and Technologies
